@@ -1,0 +1,61 @@
+phase,target,predictors,ratio_lags_used,ratio_lags_significant,ratio_p_values,r_squared,k_used
+Phase 7,incidence,"Incidence, Ratio, Hosp., ICU","2, 5, 7",none,none,0.706,10
+Phase 7,incidence,"Incidence, Ratio, Hosp.","2, 5, 7",none,none,0.637,10
+Phase 7,incidence,"Incidence, Ratio, ICU","2, 5, 7",2,0.037,0.644,10
+Phase 7,incidence,"Ratio, Hosp., ICU","2, 5, 7",2,0.015,0.707,10
+Phase 7,incidence,"Incidence, Ratio","2, 5, 7",none,none,0.581,10
+Phase 7,incidence,"Ratio, Hosp.","2, 5, 7, 8",2,0.012,0.738,10
+Phase 7,incidence,"Ratio, ICU","2, 3, 5, 7, 9, 12, 16, 19","2, 3, 7","0.028, < 0.001, 0.015",0.357,10
+Phase 7,incidence,Ratio,"2, 3, 5, 7, 16, 19","2, 3, 7, 16","< 0.001, < 0.001, < 0.001, 0.035",0.344,10
+Phase 7,incidence,"Hosp., ICU",none,none,none,0.771,10
+Phase 7,incidence,"Incidence, Hosp., ICU",none,none,none,0.685,10
+Phase 7,hospitalizations,"Incidence, Ratio, Hosp., ICU","6, 8",6,0.002,0.742,10
+Phase 7,hospitalizations,"Incidence, Ratio, Hosp.","7, 8",none,none,0.612,10
+Phase 7,hospitalizations,"Incidence, Ratio, ICU",6,none,none,0.728,10
+Phase 7,hospitalizations,"Ratio, Hosp., ICU","6, 8",none,none,0.81,10
+Phase 7,hospitalizations,"Incidence, Ratio",none,none,none,0.231,10
+Phase 7,hospitalizations,"Ratio, Hosp.","7, 8",none,none,0.612,10
+Phase 7,hospitalizations,"Ratio, ICU","2, 3, 4, 5, 7, 9, 10, 12, 15, 16, 17, 18, 19, 20","2, 3, 7, 10, 17","< 0.001, < 0.001, 0.031, < 0.001, 0.033",0.609,10
+Phase 7,hospitalizations,Ratio,"1, 2, 3, 4, 5, 7, 9, 10, 16, 21","3, 7","< 0.001, 0.010",0.3,10
+Phase 7,hospitalizations,"Hosp., ICU",none,none,none,0.796,10
+Phase 7,hospitalizations,"Incidence, Hosp., ICU",none,none,none,0.734,10
+Phase 7,icu,"Incidence, Ratio, Hosp., ICU","4, 6, 10, 14, 16, 21","4, 10, 14, 16","< 0.001, < 0.001, 0.042, 0.029",0.929,10
+Phase 7,icu,"Incidence, Ratio, Hosp.","10, 11, 12",10,0.046,0.179,10
+Phase 7,icu,"Incidence, Ratio, ICU","4, 7, 10, 16, 21","4, 10, 21","0.004, 0.041, 0.041",0.896,10
+Phase 7,icu,"Ratio, Hosp., ICU","4, 6, 10, 11, 16, 17, 18, 21",none,none,0.876,10
+Phase 7,icu,"Incidence, Ratio","10, 11, 12, 13",none,none,0.183,10
+Phase 7,icu,"Ratio, Hosp.","10, 11, 12, 13",none,none,0.183,10
+Phase 7,icu,"Ratio, ICU","4, 7, 10, 11, 16, 17, 18, 19",none,none,0.905,10
+Phase 7,icu,Ratio,"9, 10, 11, 12, 13",none,none,0.199,10
+Phase 7,icu,"Hosp., ICU",none,none,none,0.831,10
+Phase 7,icu,"Incidence, Hosp., ICU",none,none,none,0.886,10
+Phase 8,incidence,"Incidence, Ratio, Hosp., ICU","1, 2, 4, 5, 6, 8, 9, 11, 13, 14, 15, 17, 20, 21","1, 2, 8, 9, 15","< 0.001, 0.003, < 0.001, 0.024, < 0.001",0.802,10
+Phase 8,incidence,"Incidence, Ratio, Hosp.","1, 2, 4, 5, 6, 8, 9, 10, 11, 13, 14, 15, 17, 20, 21","1, 2, 5, 8, 15, 17, 21","< 0.001, 0.002, 0.033, < 0.001, < 0.001, 0.009, 0.033",0.793,10
+Phase 8,incidence,"Incidence, Ratio, ICU","1, 2, 4, 5, 6, 7, 8, 10, 11, 14, 15, 16, 17, 19, 20, 21","1, 8, 10, 15, 16","< 0.001, < 0.001, 0.034, < 0.001, 0.029",0.721,10
+Phase 8,incidence,"Ratio, Hosp., ICU","1, 2, 4, 5, 6, 8, 9, 10, 11, 14, 15, 17, 19, 20, 21","1, 2, 8, 9, 15, 17","< 0.001, < 0.001, < 0.001, 0.003, < 0.001, 0.008",0.855,10
+Phase 8,incidence,"Incidence, Ratio","1, 2, 4, 5, 6, 8, 10, 11, 13, 14, 15, 17, 19, 20, 21","1, 8, 15, 21","< 0.001, < 0.001, < 0.001, 0.001",0.735,10
+Phase 8,incidence,"Ratio, Hosp.","1, 2, 4, 5, 6, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20, 21","1, 2, 8, 15","< 0.001, < 0.001, < 0.001, 0.001",0.804,10
+Phase 8,incidence,"Ratio, ICU","1, 7, 13, 14, 15","1, 7, 14","< 0.001, 0.019, 0.048",0.221,10
+Phase 8,incidence,Ratio,"1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21","1, 7, 14, 21","< 0.001, < 0.001, < 0.001, 0.002",0.21,10
+Phase 8,incidence,"Hosp., ICU",none,none,none,0.719,10
+Phase 8,incidence,"Incidence, Hosp., ICU",none,none,none,0.746,10
+Phase 8,hospitalizations,"Incidence, Ratio, Hosp., ICU","1, 2, 4, 5, 6, 8, 9, 11, 15, 17, 19, 20, 21","1, 8, 9, 11, 15, 21","< 0.001, < 0.001, 0.034, 0.049, < 0.001, 0.004",0.749,10
+Phase 8,hospitalizations,"Incidence, Ratio, Hosp.","1, 2, 5, 6, 8, 10, 11, 15, 17, 19, 20, 21","1, 5, 6, 8, 11, 15, 21","< 0.001, 0.017, 0.026, < 0.001, 0.026, < 0.001, < 0.001",0.729,10
+Phase 8,hospitalizations,"Incidence, Ratio, ICU","1, 4, 5, 6, 8, 11, 13, 14, 15, 17, 19, 20, 21","1, 6, 8, 15, 21","< 0.001, 0.031, < 0.001, < 0.001, 0.005",0.686,10
+Phase 8,hospitalizations,"Ratio, Hosp., ICU","1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 17, 20, 21","1, 7, 8, 9, 14, 15","< 0.001, 0.005, < 0.001, 0.045, 0.043, < 0.001",0.73,10
+Phase 8,hospitalizations,"Incidence, Ratio","1, 2, 4, 5, 6, 8, 10, 11, 13, 15, 17, 18, 19, 20, 21","1, 8, 15, 21","< 0.001, < 0.001, < 0.001, < 0.001",0.65,10
+Phase 8,hospitalizations,"Ratio, Hosp.","1, 2, 5, 6, 8, 9, 10, 11, 14, 15, 17, 19, 20, 21","1, 2, 8, 9, 15, 17, 21","< 0.001, 0.022, < 0.001, 0.048, < 0.001, 0.034, 0.001",0.709,10
+Phase 8,hospitalizations,"Ratio, ICU","1, 2, 7, 13, 18, 21","1, 2","< 0.001, 0.004",0.274,10
+Phase 8,hospitalizations,Ratio,"1, 2, 5, 7, 11, 13, 14, 16, 17, 20, 21","1, 2, 7, 14, 20, 21","< 0.001, 0.002, 0.002, 0.001, 0.047, 0.001",0.283,10
+Phase 8,hospitalizations,"Hosp., ICU",none,none,none,0.743,10
+Phase 8,hospitalizations,"Incidence, Hosp., ICU",none,none,none,0.676,10
+Phase 8,icu,"Incidence, Ratio, Hosp., ICU","1, 2, 6, 7, 8, 10, 12, 19, 20","12, 19, 20","0.016, 0.013, 0.046",0.925,10
+Phase 8,icu,"Incidence, Ratio, Hosp.","1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21","8, 20","0.009, 0.009",0.551,10
+Phase 8,icu,"Incidence, Ratio, ICU","2, 6, 7, 8, 10, 11, 12, 19, 20",19,0.045,0.922,10
+Phase 8,icu,"Ratio, Hosp., ICU","1, 2, 6, 7, 8, 10, 12, 19, 20","12, 19","0.013, 0.006",0.925,10
+Phase 8,icu,"Incidence, Ratio","1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21","8, 13, 20","0.031, 0.031, 0.001",0.479,10
+Phase 8,icu,"Ratio, Hosp.","1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21","8, 20","0.009, 0.009",0.52,10
+Phase 8,icu,"Ratio, ICU","1, 2, 6, 7, 8, 10, 11, 12, 15, 19, 20","1, 8, 19, 20","0.041, 0.009, 0.012, 0.025",0.919,10
+Phase 8,icu,Ratio,"1, 2, 4, 5, 6, 8, 9, 10, 11, 12, 13, 20, 21","10, 11, 13, 20","0.048, 0.048, 0.048, 0.002",0.407,10
+Phase 8,icu,"Hosp., ICU",none,none,none,0.912,10
+Phase 8,icu,"Incidence, Hosp., ICU",none,none,none,0.911,10

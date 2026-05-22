@@ -1,0 +1,80 @@
+phase,target,parameter,adjusted_p_value,adjusted_p_value_display
+Phase 7,7-day incidence,Hosp. lag 1,0.015269705818232865,0.015
+Phase 7,7-day incidence,Hosp. lag 3,0.014932932188184884,0.015
+Phase 7,7-day incidence,Hosp. lag 7,0.045487521340462723,0.045
+Phase 7,7-day incidence,ICU lag 15,0.005725000591851825,0.006
+Phase 7,7-day incidence,Incidence lag 3,0.008166191015883673,0.008
+Phase 7,7-day incidence,Incidence lag 7,0.02738178286632227,0.027
+Phase 7,7-day incidence of hospitalizations,Hosp. lag 3,0,< 0.001
+Phase 7,7-day incidence of hospitalizations,Hosp. lag 4,4.069534351687961e-6,< 0.001
+Phase 7,7-day incidence of hospitalizations,Hosp. lag 7,0,< 0.001
+Phase 7,7-day incidence of hospitalizations,ICU lag 1,1.5655900219485597e-4,< 0.001
+Phase 7,7-day incidence of hospitalizations,ICU lag 15,0.012285567707115383,0.012
+Phase 7,7-day incidence of hospitalizations,Ratio lag 6,0.0020553509922389243,0.002
+Phase 7,Ratio of occupied ICU beds,Hosp. lag 4,4.0333161049344035e-5,< 0.001
+Phase 7,Ratio of occupied ICU beds,Hosp. lag 15,0.04151743905785604,0.042
+Phase 7,Ratio of occupied ICU beds,Hosp. lag 17,9.086762772275713e-4,< 0.001
+Phase 7,Ratio of occupied ICU beds,Hosp. lag 19,0.016209967103996203,0.016
+Phase 7,Ratio of occupied ICU beds,ICU lag 1,0,< 0.001
+Phase 7,Ratio of occupied ICU beds,ICU lag 4,2.5439941769844765e-6,< 0.001
+Phase 7,Ratio of occupied ICU beds,ICU lag 5,1.3873229517957775e-5,< 0.001
+Phase 7,Ratio of occupied ICU beds,ICU lag 7,0,< 0.001
+Phase 7,Ratio of occupied ICU beds,ICU lag 8,2.379642317112962e-5,< 0.001
+Phase 7,Ratio of occupied ICU beds,ICU lag 14,0.0037597213407928954,0.004
+Phase 7,Ratio of occupied ICU beds,Incidence lag 3,0.008966292835234313,0.009
+Phase 7,Ratio of occupied ICU beds,Incidence lag 8,0.014034953108157111,0.014
+Phase 7,Ratio of occupied ICU beds,Incidence lag 11,0,< 0.001
+Phase 7,Ratio of occupied ICU beds,Incidence lag 19,2.379642317112962e-5,< 0.001
+Phase 7,Ratio of occupied ICU beds,Incidence lag 20,3.178686678114347e-5,< 0.001
+Phase 7,Ratio of occupied ICU beds,Incidence lag 21,1.9555889469932697e-4,< 0.001
+Phase 7,Ratio of occupied ICU beds,Ratio lag 4,1.9271438884360667e-4,< 0.001
+Phase 7,Ratio of occupied ICU beds,Ratio lag 10,2.2192178128488393e-6,< 0.001
+Phase 7,Ratio of occupied ICU beds,Ratio lag 14,0.04151743905785604,0.042
+Phase 7,Ratio of occupied ICU beds,Ratio lag 16,0.02929751539389227,0.029
+Phase 8,7-day incidence,Hosp. lag 1,0,< 0.001
+Phase 8,7-day incidence,Hosp. lag 7,0.04419312870876539,0.044
+Phase 8,7-day incidence,Hosp. lag 15,0.0020007852353508687,0.002
+Phase 8,7-day incidence,Hosp. lag 17,0.017321397720633305,0.017
+Phase 8,7-day incidence,Hosp. lag 20,0.0015069410599463573,0.002
+Phase 8,7-day incidence,ICU lag 15,0.02432322650359852,0.024
+Phase 8,7-day incidence,ICU lag 21,0.017321397720633305,0.017
+Phase 8,7-day incidence,Incidence lag 7,1.1156056893901756e-5,< 0.001
+Phase 8,7-day incidence,Incidence lag 8,0.028368270984212744,0.028
+Phase 8,7-day incidence,Incidence lag 10,0.04042048882332698,0.040
+Phase 8,7-day incidence,Incidence lag 13,0.035840931474358566,0.036
+Phase 8,7-day incidence,Incidence lag 14,0.017321397720633305,0.017
+Phase 8,7-day incidence,Incidence lag 16,7.493081930224724e-5,< 0.001
+Phase 8,7-day incidence,Incidence lag 20,0.02432322650359852,0.024
+Phase 8,7-day incidence,Ratio lag 1,0,< 0.001
+Phase 8,7-day incidence,Ratio lag 2,0.0027680841470407603,0.003
+Phase 8,7-day incidence,Ratio lag 8,0,< 0.001
+Phase 8,7-day incidence,Ratio lag 9,0.02432322650359852,0.024
+Phase 8,7-day incidence,Ratio lag 15,0,< 0.001
+Phase 8,7-day incidence of hospitalizations,Hosp. lag 1,0.00904368950465736,0.009
+Phase 8,7-day incidence of hospitalizations,Hosp. lag 7,0,< 0.001
+Phase 8,7-day incidence of hospitalizations,Hosp. lag 14,6.439033338123679e-6,< 0.001
+Phase 8,7-day incidence of hospitalizations,Hosp. lag 20,0.0069794102014410315,0.007
+Phase 8,7-day incidence of hospitalizations,ICU lag 5,0.04858974967838762,0.049
+Phase 8,7-day incidence of hospitalizations,ICU lag 21,0.017539836601058897,0.018
+Phase 8,7-day incidence of hospitalizations,Incidence lag 1,0.04858974967838762,0.049
+Phase 8,7-day incidence of hospitalizations,Incidence lag 13,0.003652615385188601,0.004
+Phase 8,7-day incidence of hospitalizations,Incidence lag 16,0.002517734370854452,0.003
+Phase 8,7-day incidence of hospitalizations,Incidence lag 20,0.03416411486184508,0.034
+Phase 8,7-day incidence of hospitalizations,Ratio lag 1,0,< 0.001
+Phase 8,7-day incidence of hospitalizations,Ratio lag 8,0,< 0.001
+Phase 8,7-day incidence of hospitalizations,Ratio lag 9,0.03416411486184508,0.034
+Phase 8,7-day incidence of hospitalizations,Ratio lag 11,0.04858974967838762,0.049
+Phase 8,7-day incidence of hospitalizations,Ratio lag 15,0,< 0.001
+Phase 8,7-day incidence of hospitalizations,Ratio lag 21,0.003652615385188601,0.004
+Phase 8,Ratio of occupied ICU beds,Hosp. lag 2,0.030201303699294926,0.030
+Phase 8,Ratio of occupied ICU beds,Hosp. lag 10,0.04639798347253496,0.046
+Phase 8,Ratio of occupied ICU beds,ICU lag 1,0,< 0.001
+Phase 8,Ratio of occupied ICU beds,ICU lag 4,4.514090878422583e-4,< 0.001
+Phase 8,Ratio of occupied ICU beds,ICU lag 7,0,< 0.001
+Phase 8,Ratio of occupied ICU beds,ICU lag 8,0,< 0.001
+Phase 8,Ratio of occupied ICU beds,ICU lag 14,0,< 0.001
+Phase 8,Ratio of occupied ICU beds,ICU lag 21,4.7271803395348977e-4,< 0.001
+Phase 8,Ratio of occupied ICU beds,Incidence lag 3,0.022034303452725945,0.022
+Phase 8,Ratio of occupied ICU beds,Ratio lag 12,0.01619496396864572,0.016
+Phase 8,Ratio of occupied ICU beds,Ratio lag 19,0.012543156438422711,0.013
+Phase 8,Ratio of occupied ICU beds,Ratio lag 20,0.045566403040601125,0.046

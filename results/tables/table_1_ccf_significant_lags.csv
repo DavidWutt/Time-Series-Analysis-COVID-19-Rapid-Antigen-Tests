@@ -1,0 +1,9 @@
+phase,target,lag,adjusted_p_value,adjusted_p_value_display
+Phase 7,7-day incidence,-2,1.2549628619738253e-4,< 0.001
+Phase 8,7-day incidence,-1,1.1243219108310202e-11,< 0.001
+Phase 7,7-day incidence of hospitalizations,-3,0.02173348218249501,0.022
+Phase 7,7-day incidence of hospitalizations,-2,0.04027711573477192,0.040
+Phase 7,7-day incidence of hospitalizations,-1,0.028520774101692202,0.029
+Phase 8,7-day incidence of hospitalizations,-1,2.247845499810728e-14,< 0.001
+Phase 8,Ratio of occupied ICU beds,-12,0.04869369876011522,0.049
+Phase 8,Ratio of occupied ICU beds,-8,0.04869369876011522,0.049
